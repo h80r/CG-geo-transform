@@ -4,7 +4,6 @@ class Menu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey[800],
       appBar: AppBar(
         title: Text("geoTransform"),
         backgroundColor: Colors.blueGrey[900],
@@ -17,14 +16,14 @@ class Menu extends StatelessWidget {
             children: [
               ElevatedButton(
                 onPressed: () => Navigator.pushNamed(context, "/normalization"),
-                child: Text("Normalizar Coordenadas"),
+                child: Text("Normalize Coordinates"),
               ),
               SizedBox(
                 height: 20,
               ),
               ElevatedButton(
                 onPressed: () => print("Botão 2"),
-                child: Text("Transformações Geométricas"),
+                child: Text("Geometric Transformations"),
               ),
             ],
           ),
