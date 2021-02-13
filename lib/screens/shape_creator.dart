@@ -116,7 +116,9 @@ class _ShapeCreatorState extends State<ShapeCreator> {
               ),
               Divider(),
               ElevatedButton(
-                  onPressed: () => print(shapeVertices), child: Text("Next"))
+                  onPressed: () => Navigator.pushNamed(context, "/plotter",
+                      arguments: shapeVertices),
+                  child: Text("Next"))
             ],
           ),
         ),

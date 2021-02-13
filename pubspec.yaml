@@ -21,6 +21,9 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  flutter_plot: ^0.0.5
+  fab_circular_menu: ^1.0.1
+  adaptive_dialog: ^0.9.4
   flutter:
     sdk: flutter
 
