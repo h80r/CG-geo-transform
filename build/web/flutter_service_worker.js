@@ -10,11 +10,11 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "3eed2cd178f1ef4980ad97fea90a7369",
+"assets/NOTICES": "98e6b2afe453a211f5aaf4901d21249e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "781a2900f12612afe35756286edfea2d",
-"/": "781a2900f12612afe35756286edfea2d",
-"main.dart.js": "a14c057a420ff5ac60995ed8600928e0",
+"index.html": "b100e2354e8aac7d49a3a47f93ced958",
+"/": "b100e2354e8aac7d49a3a47f93ced958",
+"main.dart.js": "fe9a57e90d18ce2d95cc01df18f79c5d",
 "version.json": "0a751a8bafff1e6763258e43927573ec"
 };
 
