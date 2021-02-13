@@ -61764,7 +61764,7 @@ $2:function(a,b){return Z.PZ()},
 $S:400}
 O.a5W.prototype={
 $0:function(){var s=this.a.d
-return K.ir(this.b,!1).u_("/plotter",s,t._)},
+return s.length>0?K.ir(this.b,!1).u_("/plotter",s,t._):null},
 $S:87}
 E.iT.prototype={
 gm:function(a){return this.b},
