@@ -22,7 +22,7 @@ class Menu extends StatelessWidget {
                 height: 20,
               ),
               ElevatedButton(
-                onPressed: () => print("Botão 2"),
+                onPressed: () => Navigator.pushNamed(context, "/shape_creator"),
                 child: Text("Geometric Transformations"),
               ),
             ],
